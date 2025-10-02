@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Noah Ellis
+# DATE: 10/1/25
+# BRIEF DESCRIPTION: turning a percentage into a grade using a provided table1 
 
 
 
@@ -84,7 +84,7 @@ D
 
 1. What is something you would tell a future student to be careful about when
    doing this lab?
-
+Try things before making changes, see what the output currently gives
 
 
 
